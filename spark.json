@@ -1,0 +1,7 @@
+{
+  "name": "spark_shifter",
+  "author": "Kevin Bella <kbmeister@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Porting Shifter by Adam Meyer of bildr"
+}
