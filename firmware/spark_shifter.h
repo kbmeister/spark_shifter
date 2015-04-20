@@ -1,5 +1,5 @@
-#ifndef shifter_h
-#define shifter_h
+#ifndef spark_shifter_h
+#define spark_shifter_h
 
 // Include the standard types
 //#include <Arduino.h>
