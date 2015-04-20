@@ -1,8 +1,8 @@
-#ifndef spark_shifter_h
-#define spark_shifter_h
+#ifndef _spark_shifter_h
+#define _spark_shifter_h
 
 // Include the standard types
-//#include <Arduino.h>
+#include <application.h>
 
 // Define the Shifter class
 class Shifter
