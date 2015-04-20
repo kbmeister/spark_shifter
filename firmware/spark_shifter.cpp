@@ -1,6 +1,6 @@
 // Include the standard types
 //#include <Arduino.h>
-#include <spark_shifter.h>
+#include <spark_shifter/spark_shifter.h>
 
 
 // Constructor
