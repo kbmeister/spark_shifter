@@ -1,5 +1,5 @@
 // Include the standard types
-/#include <application.h>
+#include <application.h>
 #include <spark_shifter/spark_shifter.h>
 
 
